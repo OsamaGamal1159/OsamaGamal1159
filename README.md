@@ -11,7 +11,7 @@
 </p>
 
 <a href="#osama-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=OsamaGamal1159&show_icons=true&theme=transparent" alt="stats" align="right" />
+ <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=OsamaGamal1159&show_icons=true&theme=tokyonight" />
 </a>
 
 - 💻 I'm currently working as a **Full Stack Developer**
